@@ -1,4 +1,5 @@
 
+
 # 🌧️ Rainfall Forecast Discord Bot
 
 A smart Discord bot that provides **10-day rainfall forecasts** for **U.S. cities** using real weather data and time-series prediction via Facebook's `Prophet`. Built for farmers, planners, logistics, and weather enthusiasts.
@@ -37,6 +38,7 @@ A smart Discord bot that provides **10-day rainfall forecasts** for **U.S. citie
 
 📊 Plus a clean chart of the forecasted and recent rainfall!
 
+<img width="706" alt="Screenshot 2025-06-24 at 2 35 43 PM" src="https://github.com/user-attachments/assets/9b66771f-12a6-4f5c-927c-a5f29ebd9406" />
 ---
 
 ## ⚙️ How It Works
